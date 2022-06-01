@@ -1,0 +1,227 @@
+#title
+{
+    background-color:#c4d70f;
+    color: #fff;
+}
+.nav-item {
+    padding: 0 15px;
+}
+.slider
+{
+    align-items: center;
+}
+.row
+{
+    align-items: center;
+    margin-left: -15px;
+    margin-right: -15px;
+}
+.slider-img
+{
+    width: 100%;
+    position: relative;
+    z-index: 2;
+}
+h1
+{
+    color: #fff;
+}
+span
+{
+    color: black;
+}
+.download-button
+{
+    border-radius: 35px;
+    padding: 9px 35px;
+}
+
+.about-btn
+{
+    padding: 8px 25 px;
+    border-radius: 35px;
+    color: #C4D70F;
+    border: 2px solid #C4D70F ;
+    margin-top: 55px;
+}
+.section_about
+{
+    margin-top: 45px;
+    text-align: center;
+    background-color: #fff;
+    color:black;
+}
+.layout_padding {
+    padding: 75px 0;
+}
+.about-container
+{
+    display:flex;
+}
+.container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+div{
+    display:block;
+}
+.card a {
+        display: inline-block;
+        padding: 8px 25px;
+        border: 2px solid #FFFFFF;
+        color: #C4D70F;
+        border-radius: 35px;
+        margin-top: 55px;
+        text-decoration: none;
+}
+.card {
+    padding: 2px 25px 35px 25px;
+    height: 420px;
+    
+    margin: 45px 20px;
+    width: 30%;
+    min-width: 300px;
+}
+.about-detail
+ {
+    padding: 2px 25px 35px 25px;
+    height: 320px;
+}
+.about-container {
+    display: flex;
+    justify-content: center;
+    padding: 3% 2%;
+  
+    display:flex;
+}
+
+.portfolio_section {
+    text-align: center;
+}
+.layout_padding2 {
+    padding: 45px 0;
+}
+
+.container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+h2, .h2 {
+    font-size: 2rem;
+}
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+  
+        display: block;
+        margin-block-start: 1em;
+        margin-block-end: 1em;
+        margin-inline-start: 0px;
+        margin-inline-end: 0px;
+        font-family: "Poppins", sans-serif;
+    color: #1b161d;
+    
+}
+    
+    
+
+.layout_padding2-top {
+    padding-top: 45px;
+}
+.container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.portfolio_section {
+    text-align: center;
+    background-color: #ffffff;
+}
+.layout_padding2 {
+    padding: 45px 0;
+}
+.layout_padding2-top {
+    padding-top: 45px;
+}
+.container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+.portfolio_img-box img {
+    width: 100%;
+    height: max-content;
+}
+img {
+    vertical-align: middle;
+    border-style: none;
+}
+
+.layout_padding2-top {
+    padding-top: 45px;
+}
+.container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+body {
+    font-family: "Poppins", sans-serif;
+    color: #1b161d;
+    background-color: #ffffff;
+}
+h2 {
+    display: block;
+    
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-family: "Poppins", sans-serif;
+    color: #1b161d;
+    
+}
+
+.row {
+    
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+.portfolio_img-box img {
+    width: 100%;
+    height: max-content;
+}
+
+.portfolio_section {
+    text-align: center;
+}
+.portfolio_section .row>div {
+    margin: 20px 0;
+}
